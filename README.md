@@ -14,3 +14,5 @@ los he aprendido netamente de misiontic.
 
 ### Luis Armando Herrera Salazar
 Soy docente de tecnología e informática en un colegio público del Norte del Valle, Licenciado en tecnología e informática, con una buena fundamentación en programación, sin embargo no me he especializado en ninguno de ellos y la idea es hacerlo.
+### Cindy Aeeleen Burgos Herrera
+Soy Tecnóloga Biomedica , vivo en Soacha Cundinamarca , actualmente me encuentro cursando una tecnolog en Analisis y Desarrollo de Sistemas de Información. Mis conocimientos en programacion tambien se los debo unicamente a MisionTic.
